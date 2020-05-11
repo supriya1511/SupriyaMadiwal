@@ -22,7 +22,7 @@ Clone Repsoitary and run index.html in browser
 	<img src="Image2.JPG"></img>
   </kbd>
 </p>
----------------------------------------
+
 Good Luck! :+1: 
 
 :e-mail: supriyasmadiwal@gmail.com
