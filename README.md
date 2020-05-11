@@ -11,6 +11,7 @@
   	<a href="https://supriya1511.github.io/SupriyaMadiwal/" target="_blank">
 		<img src="Image1.JPG"></img>	 
 	</a>
+	<img src="Image2.JPG"></img>
   </kbd>
 </p>
 
