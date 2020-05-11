@@ -7,7 +7,7 @@
 
 ## Step to run 
 ```
-<h2> Clone Repsoitary and run index.html in browser </h2>
+Clone Repsoitary and run index.html in browser
 ```
 
 
