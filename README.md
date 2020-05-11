@@ -9,7 +9,8 @@
 <p align="center"> 
   <kbd>
   	<a href="https://supriya1511.github.io/SupriyaMadiwal/" target="_blank">
-		<img src="image.png"></img>
+		<img src="image1.jpg"></img>
+	  <img src="image2.jpd"></img>
 	</a>
   </kbd>
 </p>
