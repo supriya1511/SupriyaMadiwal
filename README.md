@@ -1,10 +1,9 @@
 # Portfolio Website
 ------------------------------------
-------------------------------------
 ### Click below to view my Portfolio website
 [Click Here](https://supriya1511.github.io/SupriyaMadiwal/)
 
-## An attractive portfolio website with lucid information flow for Developers!
+## An attractive portfolio website with lucid information flow for Developers :computer: !
 
 
 <p align="center"> 
