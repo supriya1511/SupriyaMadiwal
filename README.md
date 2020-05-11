@@ -3,6 +3,12 @@
 ### Click below to view my Portfolio website
 [Click Here](https://supriya1511.github.io/SupriyaMadiwal/)
 
+-------------------------------------
+
+'''''
+Clone Repsoitary and run index.html in browser
+'''''
+
 ## An attractive portfolio website with lucid information flow for Developers :computer: !
 
 
@@ -14,7 +20,7 @@
 	<img src="Image2.JPG"></img>
   </kbd>
 </p>
-
+---------------------------------------
 Good Luck! :+1: 
 
 :e-mail: supriyasmadiwal@gmail.com
