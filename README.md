@@ -5,9 +5,10 @@
 
 -------------------------------------
 
-'''''
+```
 Clone Repsoitary and run index.html in browser
-'''''
+```
+
 
 ## An attractive portfolio website with lucid information flow for Developers :computer: !
 
