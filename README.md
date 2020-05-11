@@ -1,7 +1,7 @@
 # Portfolio Website
 ------------------------------------
 ### Click below to view my Portfolio website
-[Click Here](https://supriya1511.github.io/SupriyaMadiwal/)
+[SupriyaMadiwal](https://supriya1511.github.io/SupriyaMadiwal/)
 
 -------------------------------------
 
@@ -23,6 +23,7 @@ Clone Repsoitary and run index.html in browser
   </kbd>
 </p>
 
+-----------------------------------
 Good Luck! :+1: 
 
 :e-mail: supriyasmadiwal@gmail.com
